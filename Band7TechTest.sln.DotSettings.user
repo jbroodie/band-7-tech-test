@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e23124bc_002Dd549_002D4d3f_002Db0e0_002D99fc180d4397/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestMethod1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7FBEC1AA-EA23-4BCF-817D-8474CEB5484D::.NETFramework,Version=v4.7.2::UnitTestProject1.InputFileLineTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7FBEC1AA-EA23-4BCF-817D-8474CEB5484D::.NETFramework,Version=v4.7.2::UnitTestProject1.OutputFileTests.Transform_ValidValues_SetsOrgCodeCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7FBEC1AA-EA23-4BCF-817D-8474CEB5484D::.NETFramework,Version=v4.7.2::UnitTestProject1.OutputFileTests.Transform_ValidValues_StripsHeaderLine&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

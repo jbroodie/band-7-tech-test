@@ -1,0 +1,8 @@
+D:\OneDrive - NHS Digital\Code work\Band7TechTest\Band7TechTest\bin\Debug\Band7TechTest.exe.config
+D:\OneDrive - NHS Digital\Code work\Band7TechTest\Band7TechTest\bin\Debug\Band7TechTest.exe
+D:\OneDrive - NHS Digital\Code work\Band7TechTest\Band7TechTest\bin\Debug\Band7TechTest.pdb
+D:\OneDrive - NHS Digital\Code work\Band7TechTest\Band7TechTest\obj\Debug\Band7TechTest.csprojAssemblyReference.cache
+D:\OneDrive - NHS Digital\Code work\Band7TechTest\Band7TechTest\obj\Debug\Band7TechTest.csproj.CoreCompileInputs.cache
+D:\OneDrive - NHS Digital\Code work\Band7TechTest\Band7TechTest\obj\Debug\Band7TechTest.exe
+D:\OneDrive - NHS Digital\Code work\Band7TechTest\Band7TechTest\obj\Debug\Band7TechTest.pdb
+D:\OneDrive - NHS Digital\Code work\Band7TechTest\Band7TechTest\bin\Debug\input.csv
